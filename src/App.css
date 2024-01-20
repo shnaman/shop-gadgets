@@ -1,0 +1,10 @@
+/* App.css */
+
+.items {
+    cursor: pointer;
+  }
+  
+  .items:hover {
+    color: #007bff; /* Change color on hover if desired */
+  }
+  
